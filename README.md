@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img src="./flowers.gif" width="75%" alt="Falling sakura petals" />
+  <img src="./flowers.gif" width="90%" alt="Falling sakura petals" />
 </p>
 
 <br>
