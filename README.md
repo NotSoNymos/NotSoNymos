@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <i>✧ finding beauty in simplicity ✧</i>
+  <i>✧ Focus ✧</i>
 </p>
 
 <br>
